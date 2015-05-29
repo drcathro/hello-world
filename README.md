@@ -1,2 +1,3 @@
-# hello-world
-The gateway repository.
+# Hello World!
+
+Dillon Cathro, 20, Sloth Enthusiast.
